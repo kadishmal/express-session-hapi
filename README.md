@@ -51,3 +51,9 @@ server.register(expressSessionHapi, function (error) {
   userProp: Joi.string().default('user'),
 }
 ```
+
+## License
+
+The [MIT](https://github.com/kadishmal/express-session-hapi/blob/master/LICENSE) License (MIT)
+
+Copyright (c) 2016 Esen Sagynov
